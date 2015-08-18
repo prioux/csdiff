@@ -4,6 +4,8 @@
 csdiff is a simple perl wrapper that produces a colorized version
 of the output of the UNIX 'sdiff' command.
 
+[[screenshots/csdiff_screenshot.png]]
+
 #### Invokation
 
 The program is onvoked much like 'sdiff' itself. Most options and

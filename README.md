@@ -8,7 +8,7 @@ of the output of the UNIX 'sdiff' command.
 
 #### Invokation
 
-The program is onvoked much like 'sdiff' itself. Most options and
+The program is invoked much like 'sdiff' itself. Most options and
 arguments are passed on directly to sdiff, and the output is 
 intercepted and colorized using ANSI color sequences. The
 exception is for a select few options that csdiff will interpret
@@ -50,7 +50,7 @@ mode), -F (filter mode) and -S (summary mode).
 #### History
 
 This is an old wrapper script, written probably around 2006 by Pierre Rioux
-and privately maintained until its release on GitHub in Auguest 2015. The
+and privately maintained until its release on GitHub in August 2015. The
 code stinks a bit, but it's quite stable and has been working flawlessly
 on Mac OS X and Linux platforms ever since it was created.
 

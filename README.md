@@ -6,7 +6,7 @@ of the output of the UNIX 'sdiff' command.
 
 ![Screenshot](https://raw.githubusercontent.com/prioux/csdiff/master/screenshots/csdiff_screenshot.png)
 
-#### Invokation
+#### Invocation
 
 The program is invoked much like 'sdiff' itself. Most options and
 arguments are passed on directly to sdiff, and the output is 
